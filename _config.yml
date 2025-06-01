@@ -192,6 +192,9 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/repositories.md
+  - _includes/repository/
+  - _bibliography
+  - _pages/publications.md
   - _pages/profiles.md
   - _pages/_teaching.md
 keep_files:
@@ -210,7 +213,7 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
-  - jekyll/scholar
+  #- jekyll/scholar
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-terser
