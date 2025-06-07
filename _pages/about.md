@@ -6,9 +6,9 @@ subtitle: <a href='[#](https://www.linkedin.com/in/kyle-ranslam-82779a159/)'>Lin
 
 profile:
   align: right
-  image: <img src="{{ '/assets/img/IMG_7218.jpeg'}}" style="transform: rotate(90deg);" alt="Me in Dublin">
+  image: 
   image_circular: false # crops the image to make it circular
-  more_info: Dublin
+  more_info: 
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
