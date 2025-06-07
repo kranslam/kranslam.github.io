@@ -6,7 +6,7 @@ subtitle: <a href='[#](https://www.linkedin.com/in/kyle-ranslam-82779a159/)'>Lin
 
 profile:
   align: right
-  image: 
+  image: IMG_7218.jpeg
   image_circular: false # crops the image to make it circular
   more_info: 
 
