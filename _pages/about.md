@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='[#](https://www.linkedin.com/in/kyle-ranslam-82779a159/)'>LinkedIn</a>. Los Angeles.
 
 profile:
   align: right
   image: IMG_7218.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Los Angeles</p>
+  more_info: 
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -26,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Kyle - an embedded software engineer with a background in computer science (BSc & MSc, UBC). This is a place to write down my thoughts on whatever I’m into — coding projects, books I’ve read, bits of history, hikes, travel, or anything that gets me outside. It’s mostly a personal log, but if you’re here, welcome.
+Hi, I'm Kyle - an embedded software engineer with a background in computer science (BSc & MSc, UBC). This is a place to write down my thoughts on whatever I’m into — coding projects, books I’ve read, bits of history, hikes, travel, or anything that gets me outside. It’s mostly a personal blog, but if you’re here, welcome.
